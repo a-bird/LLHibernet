@@ -1,0 +1,27 @@
+<Configuration>
+
+    <DBInfo>
+
+        <Ip>
+        </Ip>
+
+        <Drive>
+        </Drive>
+
+        <UserName>
+        </UserName>
+
+        <PassWord>
+        </PassWord>
+    </DBInfo>
+
+    <Mapping>
+
+        <Packge>
+        </Packge>
+
+        <Classes>
+        </Classes>
+    </Mapping>
+
+</Configuration>
