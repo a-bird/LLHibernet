@@ -1,0 +1,5 @@
+{
+"dbName":"test.db",
+"dbIp":"192.168.1.1",
+"tableClass":"user.class"
+}

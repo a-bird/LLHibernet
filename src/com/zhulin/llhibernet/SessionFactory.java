@@ -2,9 +2,9 @@ package com.zhulin.llhibernet;
 
 public class SessionFactory {
 
-	private IDataBase mDataBase;
+	private ISqliteDataBase mDataBase;
 
-	public SessionFactory(IDataBase mDataBase) {
+	public SessionFactory(ISqliteDataBase mDataBase) {
 		this.mDataBase = mDataBase;
 	}
 
